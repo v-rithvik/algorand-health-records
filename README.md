@@ -1,1 +1,0 @@
-# algorand-health-records
